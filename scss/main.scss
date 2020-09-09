@@ -375,8 +375,8 @@ $fontfamily: "Lato";
         background-color: #f7f7f7;
 
         &__container {
-            box-sizing: border-box;
             max-width: 1040px;
+            width: 100%;
             padding: 0 10px;
             margin: 0 auto;
             overflow: hidden;
